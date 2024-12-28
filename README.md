@@ -1,1 +1,1 @@
-# This is my local repo for featue1.
+# This is my local repo for feature1.
